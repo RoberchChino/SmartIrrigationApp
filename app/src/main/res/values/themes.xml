@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SmartIrrigationApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Colores, estilos que desees -->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
